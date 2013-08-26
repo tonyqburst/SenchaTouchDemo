@@ -1,0 +1,38 @@
+{
+    text: 'Groceries',
+    items: [
+        {
+            text: 'Water',
+            items: [
+                {
+                    text: 'Sparkling',
+                    leaf: true
+                },
+                {
+                    text: 'Still',
+                    leaf: true
+                }
+            ]
+        },
+        {
+            text: 'Coffee',
+            leaf: true
+        },
+        {
+            text: 'Espresso',
+            leaf: true
+        },
+        {
+            text: 'Redbull',
+            leaf: true
+        },
+        {
+            text: 'Coke',
+            leaf: true
+        },
+        {
+            text: 'Diet Coke',
+            leaf: true
+        }
+    ]
+}

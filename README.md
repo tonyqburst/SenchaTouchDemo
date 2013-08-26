@@ -1,4 +1,4 @@
 SenchaTouchDemo
 ===============
 
-My First Sencha Touch Application
+My First Sencha Touch App
