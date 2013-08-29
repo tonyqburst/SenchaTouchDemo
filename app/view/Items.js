@@ -58,6 +58,25 @@ Ext.define('MyApp.view.Items', {
                 iconCls: 'x-video',
                 poster: 'resources/images/usthad-hotel-poster.png',
                 url: 'resources/videos/angularJS.mp4'
+            } ,
+            {
+                xtype: 'carousel',
+                title: 'Images',
+                iconCls: 'star',
+                items: [
+                    {
+                        xtype: 'image',
+                        src: 'resources/images/1.jpg'
+                    },
+                    {
+                        xtype: 'image',
+                        src: 'resources/images/2.jpg'
+                    },
+                    {
+                        xtype: 'image',
+                        src: 'resources/images/3.jpg'
+                    }
+                ]
             }
 
 
